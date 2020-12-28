@@ -1,0 +1,56 @@
+body, html {
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 0;
+	font-size: 16px;
+}
+header {
+	display: block;
+	width: 100%;
+}
+.hero-image {
+	background-image: url("img/banner.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 500px;
+}
+.her-image {
+	background-image: url("img/logo.png");
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 16px;
+	position: 20px 520px;
+	height: 16px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #111;
+	text-align: center;
+}
+li {
+	float: right;
+
+}
+b img{
+	position:absolute;
+	width: 46px;
+	top: 500px;
+	left: 0px;
+
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: 'Josefin Sans', sans-serif;
+}
+li a:hover {
+	background-color: #ffe605;
+}
