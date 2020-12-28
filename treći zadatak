@@ -53,13 +53,6 @@
 		
 		<br>
 	</main>
-	<footer>
-		<p>Copyright &copy; 2019 Vedran Pozaić <a href="https://github.com"><img src="img/GitHub_Logo.png" title="Github" alt="Github"></a></p>
-		<p> <a href="https://instagram.com" target="_blank"><img src="img/instagram.svg" alt="Instagram" title="Instagram" style="width:25px; margin-top:0.5em"></a>
-			<a href="https://www.booking.com" target="_blank"><img src="img/booking_icon.png" alt="Booking" title="Booking" style="width:50px; margin-top:0.5em"></a>
-			<a href="https://hr.airbnb.com" target="_blank"><img src="img/airbnb_icon.png" alt="airbnb" title="airbnb" style="width:23px; margin-top:0.5em"></a>
-		</P>
-	</footer>
 </body>
 </html>
 
